@@ -122,6 +122,7 @@ namespace MadLibs
         /// </summary>
         private static void DisplayRoyalLibrary()
         {
+
             Console.WriteLine("Hello! Welcome to our local library! Queen Alexandra is a huge lover of books, and has been curating a collection for years.");
             Console.WriteLine("Feel free to borrow as many as you would like.");    
             Console.WriteLine();
@@ -179,7 +180,7 @@ namespace MadLibs
 
             Console.WriteLine();
 
-            Console.WriteLine($"There are many {adjective} ways to chose a/an {noun} to read.");
+            Console.WriteLine($"There are many {adjective} ways to choose a/an {noun} to read.");
             Console.WriteLine($"First, you could ask for recommendations from your friends, {pluralnoun}, or even Queen Alexandra herself!");
             Console.WriteLine($"Just don't ask {name} - they only read {adjective1} books with {clothing}-ripping goddesses on the cover.");
             Console.WriteLine();
@@ -187,7 +188,7 @@ namespace MadLibs
             Console.WriteLine($"If the {pluralnoun1} featured there are too {adjective2} for your taste, try something a little more low-{bodypart},");
             Console.WriteLine($"like {letter}: The {magical} Magazine, or {magical1} Magazine.");
             Console.WriteLine();
-            Console.WriteLine($"You could also chose a book the {adjective3}-fashioned way.");
+            Console.WriteLine($"You could also choose a book the {adjective3}-fashioned way.");
             Console.WriteLine($"Head to our royal library or {place} and browse until something catches your {bodypart1}.");
             DisplayContinuePrompt();
         }
