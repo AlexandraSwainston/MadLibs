@@ -9,7 +9,7 @@ namespace MadLibs
     // ***************************************************
     //
     // Title: Capstone Project - MadLibs
-    // Description: User Response Story Telling
+    // Description: User Response Story Telling 
     // Application Type: Console
     // Author: Swainston, Alexandra
     // Dated Created: 4/24/2020
