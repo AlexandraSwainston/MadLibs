@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MadLibs
 {
-    // ***************************************************
+    // **************************************************
     //
     // Title: Capstone Project - MadLibs
     // Description: User Response Story Telling 
@@ -15,7 +15,7 @@ namespace MadLibs
     // Dated Created: 4/24/2020
     // Last Modified: 4/25/2020
     //
-    // ***************************************************
+    // **************************************************
 
     class Program
     {
